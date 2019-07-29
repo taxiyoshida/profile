@@ -42,6 +42,7 @@
 - インドネシア政府の中央政府予算の22％に及ぶ石油燃料補助金を巡る汚職疑惑を海外ジャーナリスト初のスクープ
 
 ---
+# インターネット活動
 #### Youtube
 [Axion Channel](https://www.youtube.com/channel/UC-Hpr_y-D5DIt7H95Xbq91Q)
 #### twitter
