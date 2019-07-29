@@ -1,63 +1,17 @@
-吉田拓史（よしだ・たくし）
-Takushi Yoshida
+**吉田拓史（よしだ・たくし）**
+**Takushi Yoshida**
 1985,04,15
 新潟県糸魚川市生まれ
 
-株式会社アクシオンテクノロジーズの代表取締役をしています。インターネットのニュース消費に新しいビジネスモデルをもたらす活動をしています。人類の幸福追求を最大化するため人類を著しく進化させることが目標です。
+株式会社アクシオンテクノロジーズの代表取締役をしています。インターネットのニュース消費に定額制のビジネスモデルをもたらす会社を運営しています。
 
-### Youtube
-
-- [Axion Channel](https://www.youtube.com/channel/UC-Hpr_y-D5DIt7H95Xbq91Q)
-
-### twitter
-
-- [taxiyoshida](https://twitter.com/taxiyoshida)
-
-### GitHub
-
-- [taxiyoshida](https://github.com/taxiyoshida0)
-
-### Presentation
-
-- [「Smart Node : 分散自律時代の情報流通、メディアの再発明(Japanese)」](https://www.slideshare.net/takushiyoshida/smart-node?ref=https://www.linkedin.com/in/takushi-yoshida-a7749961/detail/treasury/summary/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAAA0QW7sBFK4GsSa4b2PAQFNe_eeUgpzlDP0%2C1483318144496)&section=summary&treasuryCount=1)
-
-### Music
-
-- [Alcoholic Vivi](https://soundcloud.com/alcoholic-vivi)
-- [Takushi_Yoshida](https://soundcloud.com/taxi_yoshida)
-
-### Novels
-
-- [「月の恋人」](https://note.mu/kei_natsukawa/m/m3eb6baa54801)(2015年5月製作)
-- [「カオスが見た夢」](https://note.mu/kei_natsukawa/m/mc55ff65e5441)(2015年2月製作)
-- [「未来はいま深い海のなかを潜っている」](https://note.mu/kei_natsukawa/m/m30e2a27dc98b)(2013年製作)
-
-### Flickr
-
-- [taxiyoshida](https://www.flickr.com/photos/136806783@N06)
-
-### Hobby
-
-- Walking, Travel, Movie, Shogi, Watching Tennis Game, Manga, Japanese Animation, DTM
-
-### Donation
-
-- [Amazon Wish List](http://amzn.asia/51rLNUb)
-
-### contact
-
-- Twitter @taxiyoshida
-- yoshi@axion.zone
-
-------
-
-### 経歴
+# 経歴
 
 - 2017/9~ axion CEO 
 - 2015/7~2017/9 DIGIDAY JAPAN Editor, Analyst / Infobahn, Mediagene
 - 2010/9〜2015/2　じゃかるた新聞／PT. BINA KOMUNIKA ASIATAMA（Jakarta, Indonesia） 編集記者
 
-### 教育
+# 教育
 
 学士（政治経済学）
 
@@ -65,15 +19,13 @@ Takushi Yoshida
 
 2005/4〜2010/3  
 
-### サマリー
+------
 
-**2017年9月定額制メディアプロジェクトAxionを開始**
+# 経歴の要約
 
-- 動画製作
+**2017年9月定額制マガジンアプリ「Axion」を開始**
 
-- フロントエンドエンジニアリング
-
-- 株式会社アクシオンテクノロジーズ創業（19年4月）
+原稿編集執筆、動画製作、フロントエンドエンジニアリング、事業計画、財務計画などを策定。19年4月に正式に株式会社アクシオンテクノロジーズ創業。最初の一年の経緯。
 
 **2015年~2017年 DIGIDAY日本版　編集者・アナリスト**
 
@@ -88,6 +40,34 @@ Takushi Yoshida
 - 2014年インドネシア大統領選挙で、外務省、商社等の日本筋の中で最も精度の高い予測を継続して出した
 
 - インドネシア政府の中央政府予算の22％に及ぶ石油燃料補助金を巡る汚職疑惑を海外ジャーナリスト初のスクープ
+
+---
+#### Youtube
+[Axion Channel](https://www.youtube.com/channel/UC-Hpr_y-D5DIt7H95Xbq91Q)
+#### twitter
+@taxiyoshida
+#### GitHub
+taxiyoshida
+#### Presentation
+[「Smart Node : 分散自律時代の情報流通、メディアの再発明(Japanese)」](https://www.slideshare.net/takushiyoshida/smart-node?ref=https://www.linkedin.com/in/takushi-yoshida-a7749961/detail/treasury/summary/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAAA0QW7sBFK4GsSa4b2PAQFNe_eeUgpzlDP0%2C1483318144496)&section=summary&treasuryCount=1)
+#### Music
+[Alcoholic Vivi](https://soundcloud.com/alcoholic-vivi)
+[TAKUSHI YOSHIDA](https://soundcloud.com/taxi_yoshida)
+#### Novels
+[「月の恋人」](https://note.mu/kei_natsukawa/m/m3eb6baa54801)(2015年5月製作)
+[「カオスが見た夢」](https://note.mu/kei_natsukawa/m/mc55ff65e5441)(2015年2月製作)
+[「未来はいま深い海のなかを潜っている」](https://note.mu/kei_natsukawa/m/m30e2a27dc98b)(2013年製作)
+#### Flickr
+[taxiyoshida](https://www.flickr.com/photos/136806783@N06)
+#### Hobby
+Walking, Travel, Movie, Shogi, Watching Tennis Game, Manga, Japanese Animation, DTM
+#### Donation
+[Amazon Wish List](http://amzn.asia/51rLNUb)
+#### contact
+Twitter @taxiyoshida
+yoshi@axion.zone
+
+# 詳細な経歴
 
 ### CEO、Axion
 
